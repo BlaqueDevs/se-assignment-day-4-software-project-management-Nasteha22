@@ -134,9 +134,41 @@ Gantt charts are valuable tools in project management that assist in planning, s
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
+Issues addressed would include
+
+Personalized Curriculum: The software assesses students' strengths and weaknesses through initial diagnostics and ongoing assessments, creating customized learning pathways.
+
+
+Peer Interaction: Facilitate group projects and discussions through virtual classrooms where students can collaborate in real-time.
+
+Inclusive Design: Ensure the platform is accessible to all learners, including those with disabilities, by incorporating features like text-to-speech, adjustable text sizes, and color contrast options.
+
+These problems are significant to my target audience who would be students in primary school and secondary school. My software would ensure engaging effective collaborative and inclusive learning. Effective because the curriculum would be personalised to meet the needs of the students. 
+Engaging because it would encourage peer Interaction.
+It would be inclusive as no student would be left behind including the ones with disabilities.
+
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+
+Clearly defining a problem is crucial for developing effective solutions. It ensures that all stakeholders understand the issue, which aids in collaborative efforts and prevents miscommunication. A well-defined problem allows for identifying root causes rather than just addressing symptoms, leading to more targeted solutions. Additionally, it helps prioritize challenges and streamline the problem-solving process, ultimately saving time and resources by focusing efforts on what truly matters. This clarity fosters accountability and engagement among team members, increasing the likelihood of successful implementation and positive outcomes
+
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+
+My software solution is effective inclusive and collaborative. It makes the content easier and personalised to cater to the needs of every students. Above all students are able to understand the content and not feel like they are being left behind.
+
 ## 11. What are the main features or functionalities that make your software stand out?
+Inclusiveness. The fact that my software would include even the students with disabilities with features like text to speech. I believe that it is important that every child acquires their educational needs and wants.
+
+Personalised learning. The software would be able to  assess the strengths and weakness of students through a series of assessments.This creates personalised learning.
+
 ## 12. What data is available regarding the market size and growth potential for your software?
+The market for educational software, particularly adaptive learning solutions, shows significant growth potential. This is majorly because of Introduction of the CBC model which emphasises on integration of technology in education. It is highly learning centered and that is what my software aims to do through personalised learning.
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+
+Market Relevance: Staying informed about trends like AI integration, low-code platforms, and cloud-native development ensures your software meets current market demands and user expectations, enhancing its appeal and usability.
+
+Competitive Advantage: By leveraging emerging technologies such as machine learning and microservices, you can differentiate your product, making it more efficient and scalable compared to competitors.
+
+Future-Proofing: Awareness of trends like edge computing and decentralized applications helps in designing software that adapts to future technological advancements, ensuring longevity in a rapidly evolving market.
